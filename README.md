@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dzmitry Skopinau!</h1>
-<h3 align="center">A Java Software Developer with half a year of commercial experience</h3>
+<h3 align="center">A Java Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyskop&label=Profile%20views&color=0e75b6&style=flat" alt="dyskop" /> </p>
 
